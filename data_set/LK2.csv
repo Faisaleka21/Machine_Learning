@@ -1,0 +1,16 @@
+No;Usia;Tekanan Darah;Kolesterol;Merokok;Riwayat Keluarga;Risiko Jantung
+1;>50;Tinggi;Tinggi;Ya;Ya;Tinggi
+2;<50;Normal;Normal;Tidak;Tidak;Rendah
+3;>50;Normal;Tinggi;Ya;Tidak;Tinggi
+4;<50;Tinggi;Normal;Ya;Ya;Sedang
+5;>50;Tinggi;Tinggi;Tidak;Ya;Tinggi
+6;<50;Normal;Normal;Tidak;Ya;Rendah
+7;>50;Tinggi;Normal;Ya;Ya;Tinggi
+8;>50;Normal;Normal;Tidak;Tidak;Sedang
+9;<50;Tinggi;Tinggi;Ya;Tidak;Sedang
+10;>50;Tinggi;Tinggi;Ya;Tidak;Tinggi
+11;<50;Normal;Tinggi;Tidak;Ya;Sedang
+12;>50;Normal;Normal;Tidak;Ya;Sedang
+13;<50;Tinggi;Normal;Tidak;Tidak;Rendah
+14;>50;Tinggi;Normal;Tidak;Tidak;Sedang
+15;<50;Normal;Tinggi;Tidak;Ya;Sedang
